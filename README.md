@@ -1,8 +1,10 @@
 javascript-sets
 ===============
 
-An array that contains no duplicate elements.
----------------------------------------------
+Set is an array that contains no duplicate elements.
+If you join 2 different arrays that contains a same item, only one will be inserted.
+
+
 
 Set have 3 method for managing the array:
 
