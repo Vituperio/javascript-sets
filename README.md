@@ -11,10 +11,15 @@ Set have 3 method for managing the array:
 * value()
 
 **add()**
+
 This method allow you to add to set items or arrays to an existing.
 
+
 **remove()**
+
 This method provide the possibility to remove from set an item or an array.
 
+
 **value()**
-Thjis method allow you tu return the current value of set.
+
+This method allow you tu return the current value of set.
