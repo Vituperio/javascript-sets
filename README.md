@@ -10,16 +10,17 @@ Set have 3 method for managing the array:
 * remove()
 * value()
 
-**add()**
 
-This method allow you to add to set items or arrays to an existing.
+**Functions:**
 
-
-**remove()**
-
-This method provide the possibility to remove from set an item or an array.
+* add()
+	This method allow you to add to set items or arrays to an existing.
 
 
-**value()**
+* remove()
+	This method provide the possibility to remove from set an item or an array.
 
-This method allow you tu return the current value of set.
+
+* value()
+	This method allow you tu return the current value of set.
+
